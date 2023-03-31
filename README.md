@@ -1,4 +1,4 @@
-[![Python application test with Github Actions](https://github.com/SedatF/azure-devops/actions/workflows/main.yml/badge.svg)](https://github.com/SedatF/azure-devops/actions/workflows/main.yml)
+[![Python application test with Github Actions](https://github.com/SedatF/azure-devops/actions/workflows/main.yml/badge.svg)](https://github.com/SedatF/az-devops/actions/workflows/main.yml)
 
 # Azure DevOps Project: Building a CI/CD Pipeline
 
