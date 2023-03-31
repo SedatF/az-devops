@@ -13,7 +13,7 @@ variables:
   azureServiceConnectionId: 'e7a256dc-769a-421c-9f8e-e283ed3cbefa'
   
   # TODO: Specify the value of the existing Web App name
-  webAppName: 'azure-devops-service'
+  webAppName: 'mywebapp234567'
  
   # Environment name
   environmentName: 'azure-devops-service'
