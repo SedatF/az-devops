@@ -146,7 +146,7 @@ Change the application name in app.py from 'Sklearn Prediction Home' to 'Sklearn
 App name before changing:
 ![appname_before_change](screen/appname_before_change.jpg "appname_before_change")
 App name after changing:
-![appname_changed](screenshot/appname_changed.jpeg "appname_changed")
+![appname_changed](screen/appname_changed.jpg "appname_changed")
 
 The pipeline is triggered by each commit to GitHub Repo and actually that is the CI/CD
 ![pipeline_triggered1](screen/pipeline_1.jpeg "pipeline_triggered1")
