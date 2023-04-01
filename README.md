@@ -66,7 +66,7 @@ Performe CI by using GitHub Action.
 From the top bar of GitHub click on 'Actions', then click on "set up a workflow yourself' and use the GitHub Actions template yaml file located in  [.github/workflows/main.yml]
 
 Once you create this workflow, it will run automatically to build code in Repo:
-![GitHub Actions](screen/run_action.jpeg "GitHub Actions")
+![GitHub Actions](screen/run_action.jpg "GitHub Actions")
 
 Passing GitHub Actions:
 ![GitHub Actions](screen/passed_actions.jpeg "GitHub Actions")
