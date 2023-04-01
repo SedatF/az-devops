@@ -105,15 +105,13 @@ Install locust tool
 
 (.myrepo) odl_user [~/az-devops]$ pip install locust
 
-![Install locust tool](screen/locust_install.jpeg "Install locust tool")
+![Install locust tool](screen/locust_install.jpg "Install locust tool")
 
 Open Template file 'locustinput.py' and Replace '< yourappname >':
 ```bash
 (.myrepo) odl_user [~/flask-project]$ nano locustinput.py
 (.myrepo) odl_user [~/flask-project]$ locust -f locustinput.py --headless -u 10 -r 3 -t 10s
 ```
-
-![locust_test](screen/locust_log.jpeg "locust_test")
 
 ### Provisioning CI/CD using Azure Pipelines
 
