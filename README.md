@@ -158,4 +158,4 @@ Future improvements include but are not limited to:
 ## Demo
 
 This video demonstrates all previous steps:
-[Demo Video](https://www.youtube.com/watch?v=7WVkz0Brn)
+[Demo Video](https://www.youtube.com/watch?v=7WVkz0Brn](https://youtu.be/lA9gZwnetEs)
