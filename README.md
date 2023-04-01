@@ -14,7 +14,7 @@ This project describe the DevOps CI/CD concepts. using Azure pipeline and Github
 ## Instructions
 The below diagram shows the project architecture.  
 
-![project architecture](screenshot/CI_CD_Project.svg "project architecture")
+![project architecture](screen/CI_CD_Project.svg "project architecture")
 
 The source code are in GitHub repo, actually GitHub Actions perform CI. therefore once any change happend on repo the GitHub Actions can atomatically check the code by build and test.
 
