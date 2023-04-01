@@ -97,7 +97,7 @@ open cloud shell
 (.myrepo) odl_user [~/flask-project]$ az webapp log tail
 ```
 
-![Log](screen/log.jpeg "Log")
+![Log](screen/log.jpg "Log")
 
 validation of the webapp can be performed using [locust](https://locust.io).
 
@@ -129,11 +129,11 @@ Configure pipeline to deploy code to Azure app service 'that created in previous
 
 run the pipeline including the 'Build stage' and the 'Deploy Web App' based on yaml file:
 
-![Azure_pipeline_build_deploy](screen/Azure_pipeline_build_deploy.jpeg "Azure_pipeline_build_deploy")
+![Azure_pipeline_build_deploy](screen/Azure_pipeline_build_deploy.jpg "Azure_pipeline_build_deploy")
 
 View pipeline log by click on build icon
 
-![Azure_pipeline_build_deploy_log](screen/Azure_pipeline_build_deploy_log.jpeg "Azure_pipeline_build_deploy_log")
+![Azure_pipeline_build_deploy_log](screen/Azure_pipeline_build_deploy_log.jpg "Azure_pipeline_build_deploy_log")
 
 From now on every change to your code will trigger the CI/CD pipeline and update your webapp accordingly:
 
@@ -142,11 +142,11 @@ Change the application name in app.py from 'Sklearn Prediction Home' to 'Sklearn
 (.myrepo) odl_user [~/flask-project]$ nano app.py
 (.myrepo) odl_user [~/flask-project]$ git add app.py && git commit -m "Change app name" && git push
 ```
-![change_appname_and_push](screen/change_appname_and_push.jpeg "change_appname_and_push")
+![change_appname_and_push](screen/change_appname_and_push.jpg "change_appname_and_push")
 App name before changing:
-![appname_before_change](screen/appname_before_change.jpeg "appname_before_change")
+![appname_before_change](screen/appname_before_change.jpg "appname_before_change")
 App name after changing:
-![appname_changed](screenshot/appname_changed.jpeg "appname_changed")
+![appname_changed](screenshot/appname_changed.jpg "appname_changed")
 
 The pipeline is triggered by each commit to GitHub Repo and actually that is the CI/CD
 ![pipeline_triggered1](screen/pipeline_1.jpeg "pipeline_triggered1")
