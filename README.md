@@ -140,7 +140,6 @@ Change the application name in app.py from 'Sklearn Prediction Home' to 'Sklearn
 (.myrepo) odl_user [~/flask-project]$ nano app.py
 (.myrepo) odl_user [~/flask-project]$ git add app.py && git commit -m "Change app name" && git push
 ```
-![change_appname_and_push](screen/change_appname_and_push.jpg "change_appname_and_push")
 App name before changing:
 ![appname_before_change](screen/appname_before_change.jpg "appname_before_change")
 App name after changing:
