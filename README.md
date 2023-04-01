@@ -44,7 +44,7 @@ Install needed packages and testing it:
 ```bash
 (.myrepo) odl_user [~/flask-project]$ make all
 ```
-![Build project](screen/make_all.jpeg "Build project")
+![Build project](screen/make_all.jpg "Build project")
 
 Run the application locally:
 ```bash
