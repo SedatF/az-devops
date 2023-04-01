@@ -8,7 +8,7 @@ This project describe the DevOps CI/CD concepts. using Azure pipeline and Github
 
 ## Project Plan
 
-* The [Trello board](https://trello.com/) is then used for task planning and tracking.
+* The [Trello board](https://trello.com/invite/b/B8cu31jj/ATTI67bd7cee23a3ca45ee083bafdf637363D62E8F2B/jobs) is then used for task planning and tracking.
 * The [quarterly project plan](../../raw/main/plan/CI-CD_project_plan.xlsx) the steps for building CI-CD pipeline.
 
 ## Instructions
