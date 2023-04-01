@@ -129,11 +129,9 @@ Configure pipeline to deploy code to Azure app service 'that created in previous
 
 run the pipeline including the 'Build stage' and the 'Deploy Web App' based on yaml file:
 
-![Azure_pipeline_build_deploy](screen/Azure_pipeline_build_deploy.jpg "Azure_pipeline_build_deploy")
+![Azure_pipeline_build_deploy](screen/Azure_pipeline_build_deploy.jpeg "Azure_pipeline_build_deploy")
 
 View pipeline log by click on build icon
-
-![Azure_pipeline_build_deploy_log](screen/Azure_pipeline_build_deploy_log.jpg "Azure_pipeline_build_deploy_log")
 
 From now on every change to your code will trigger the CI/CD pipeline and update your webapp accordingly:
 
