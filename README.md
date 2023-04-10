@@ -74,7 +74,7 @@ Passing GitHub Actions:
 ### Deploying to Azure App Services
 Deploy app to Azure app services locally using Azure CLI:
 ```bash
-(.myrepo) odl_user [~/flask-project]$ az webapp up -n flask-abdulrazak --sku F1 --resource-group Azuredevops
+(.myrepo) odl_user [~/flask-project]$ az webapp up -n az-devops --sku F1 --resource-group Azuredevops
 ```
 Check app if it is become online by using the link from the previous step:
 
